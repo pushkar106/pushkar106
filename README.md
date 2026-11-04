@@ -110,18 +110,6 @@ G.H. Raisoni Institute of Engineering and Management, Jalgaon
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pushkar106&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar106&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 I'm interested in software development opportunities and building impactful applications.
