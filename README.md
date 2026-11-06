@@ -112,11 +112,14 @@ G.H. Raisoni Institute of Engineering and Management, Jalgaon
 
 ### 📫 Let's Connect
 
-I'm interested in software development opportunities and building impactful applications.
+<div align="center">
 
-[**LinkedIn:**](https://www.linkedin.com/in/pushkar-patil04/)
+I'm open to software development opportunities — feel free to reach out!
 
-[**GitHub:**](https://github.com/pushkar106)
+<a href="https://www.linkedin.com/in/pushkar-patil04/">LinkedIn</a>
+•
+<a href="https://github.com/pushkar106">GitHub</a>
+•
+<a href="mailto:pushkarrajput108@gmail.com">Email</a>
 
-[**Email:**] (pushkarrajput108@gmail.com)
-
+</div>
