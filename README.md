@@ -119,7 +119,5 @@ I'm open to software development opportunities — feel free to reach out!
 <a href="https://www.linkedin.com/in/pushkar-patil04/">LinkedIn</a>
 •
 <a href="https://github.com/pushkar106">GitHub</a>
-•
-<a href="mailto:pushkarrajput108@gmail.com">Email</a>
 
 </div>
