@@ -118,5 +118,5 @@ I'm interested in software development opportunities and building impactful appl
 
 [**GitHub:**](https://github.com/pushkar106)
 
-**Email:** pushkarrajput108@gmail.com
+[**Email:**] (pushkarrajput108@gmail.com)
 
