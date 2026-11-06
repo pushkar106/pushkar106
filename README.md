@@ -83,7 +83,7 @@
 
 - [**Scam Alert Portal**](https://github.com/pushkar106/Scam-Alert-Portal) — Secure scam reporting platform with JWT authentication, evidence uploads and ML-based scam classification.
 
-- [**AI-Powered Ad Generation Platform**](https://github.com/pushkar106/Ai-Product-Ads) — AI-based marketing content generation using Spring Boot, React.js, OpenAI API and AWS S3.
+- [**AI-Powered Ad Generation Platform**](https://github.com/pushkar106/AdGenius-AI)— AI-based marketing content generation using Spring Boot, React.js, OpenAI API and AWS S3.
 
 - **EventNest – Event Management Platform** — Event discovery, booking, OTP verification, payment verification and QR-code ticket generation using React Native, Node.js, Express.js and MongoDB. *(Repository link to be added.)*
 
@@ -114,9 +114,9 @@ G.H. Raisoni Institute of Engineering and Management, Jalgaon
 
 I'm interested in software development opportunities and building impactful applications.
 
-**LinkedIn:** [Pushkar Patil](https://www.linkedin.com/in/pushkar-patil04/)
+[**LinkedIn:**](https://www.linkedin.com/in/pushkar-patil04/)
 
-**GitHub:** [pushkar106](https://github.com/pushkar106)
+[**GitHub:**](https://github.com/pushkar106)
 
 **Email:** pushkarrajput108@gmail.com
 
